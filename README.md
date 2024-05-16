@@ -1,7 +1,9 @@
-# saris
+# Master thesis
 Repo for my master thesis on the topic of exploration of translation and reasoning abilities of LLMs in the low-resource Saris dialect.
 The goal of this thesis is to establish first Saris dataset ever, together with evaluation of two NLP tasks - translation and common sence reasoning.
 For translation we used the GPT-4 model and fine-tuned the NLLB model as well. For the CSR task, we manually translated COPA dataset to Saris and tested the GPT-4 model on it.
+
+The current version of this thesis can be seen [here](https://github.com/vikion/kivi.github.io/blob/main/main.pdf).
 
 
 
