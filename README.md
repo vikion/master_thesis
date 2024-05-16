@@ -30,6 +30,7 @@ May
 - Github for MT
 
 2024/2025
+- study of the remaining papers (Bonan)
 - study of the Saris dialect to be part of the final MT
 - try NLLB from Saris to other languages (English, German, etc)
 - NLLB to Saris from other languages basides Slovak
