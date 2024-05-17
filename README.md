@@ -41,3 +41,10 @@ May
 - complex analysis of the results,try to identify general flaws with the translation to/from dialect
 
 
+## Literature
+[Ebing, Benedikt, and Goran Glavaš. "To Translate or Not to Translate: A Systematic Investigation of Translation-Based Cross-Lingual Transfer to Low-Resource Languages." arXiv preprint arXiv:2311.09404 (2023).](https://arxiv.org/pdf/2311.09404)
+
+[Tars, Maali, Andre Tättar, and Mark Fišel. "Extremely low-resource machine translation for closely related languages." arXiv preprint arXiv:2105.13065 (2021).](https://aclanthology.org/2021.nodalida-main.5.pdf)
+
+[Min, Bonan, et al. "Recent advances in natural language processing via large pre-trained language models: A survey." ACM Computing Surveys 56.2 (2023): 1-40.](https://arxiv.org/pdf/2111.01243)
+
