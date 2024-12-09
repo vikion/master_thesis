@@ -7,38 +7,48 @@ The current version of this thesis can be seen [here](https://github.com/vikion/
 
 
 
-## TO-DO
+# Timeline
 
-January
-- study the papers and check other similiar datasets on Huggingface
+December
+- write Related work section
+- prompting on new dataset
+- present at Project Seminar 2
 
-February
-- Gather the data for SarisSet -> 4000 sentences
-- manually translate 500 sentences to form a golden set
+November
+- scraping Saris - Slovak dictionary for translation
 
-March
-  - Try GPT-3.5-Turbo and GPT-4 on translation
-  - fine-tune NLLB model on SarisSet
-  - manually evaluate the results on a sample of 100 sentences, 
-
-April
-- Translate the XCOPA to Saris and Slovak with the help of annotators
-- evaluate the results
-- SVK and VarDial papers
+October
+- scraping more sentences -> + 4000 sentences
 
 May
 - presentation for Project Seminar
 - Skeleton of the master thesis
 - Github for MT
 
-2024/2025
-- study of the remaining papers (Bonan)
+April
+- Translate the XCOPA to Saris and Slovak with the help of annotators
+- evaluate the results
+- SVK and VarDial papers
+
+March
+  - Try GPT-3.5-Turbo and GPT-4 on translation
+  - fine-tune NLLB model on SarisSet
+  - manually evaluate the results on a sample of 100 sentences, 
+
+February
+- Gather the data for SarisSet -> 4000 sentences
+- manually translate 500 sentences to form a golden set
+
+
+January
+- study the papers and check other similiar datasets on Huggingface
+
+## TO-DO
+- write remaining chapters
 - study of the Saris dialect to be part of the final MT
-- try NLLB from Saris to other languages (English, German, etc)
 - NLLB to Saris from other languages basides Slovak
-- more data, fine-tune more models like mT5
-- different approaches of fine-tuning the model,
-- complex analysis of the results,try to identify general flaws with the translation to/from dialect
+- try multiple models (mT5)
+- ablation study with prompoting on models (include dictionary, some similar sentences, ...)
 
 
 ## Literature
