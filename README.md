@@ -7,8 +7,11 @@ The current version of this thesis can be seen [here](https://github.com/vikion/
 
 # Datasets
 For purpose of this work I created 2 new datasets:
-- [SarisSet] (https://huggingface.co/datasets/kiviki/SarisSet)
-- [SarisCOPA] (https://huggingface.co/datasets/kiviki/SarisCOPA)
+- [SarisSet](https://huggingface.co/datasets/kiviki/SarisSet)
+- [SarisCOPA](https://huggingface.co/datasets/kiviki/SarisCOPA)
+
+# Code
+Code for this project can be found [here](https://github.com/vikion/Saris).
 
 
 # Timeline
