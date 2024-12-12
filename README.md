@@ -5,6 +5,10 @@ For translation we used the GPT-4 model and fine-tuned the NLLB model as well. F
 
 The current version of this thesis can be seen [here](https://github.com/vikion/kivi.github.io/blob/main/main.pdf).
 
+# Datasets
+For purpose of this work I created 2 new datasets:
+- [SarisSet] (https://huggingface.co/datasets/kiviki/SarisSet)
+- [SarisCOPA] (https://huggingface.co/datasets/kiviki/SarisCOPA)
 
 
 # Timeline
