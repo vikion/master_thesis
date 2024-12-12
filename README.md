@@ -27,6 +27,9 @@ November
 October
 - scraping more sentences -> + 4000 sentences
 
+June
+- present my work at Vardial 2024 (part of NAACL 2024)
+
 May
 - presentation for Project Seminar
 - Skeleton of the master thesis
